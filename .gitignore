@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Model & scaler files
+solar_model.pkl
+scaler.pkl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit's local settings
+.streamlit/
